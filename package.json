@@ -1,0 +1,26 @@
+{
+  "name": "di2pro.github.io",
+  "version": "1.0.0",
+  "description": "Just a bit about me",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@di2pro_github:di2pro/di2pro.github.io.git"
+  },
+  "author": "Dmitriy Uvarov <dimmond.pro@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.8.3",
+    "sass-loader": "^6.0.7",
+    "style-loader": "^0.20.3",
+    "webpack": "^4.5.0",
+    "webpack-cli": "^2.0.14",
+    "webpack-dev-server": "^3.1.3"
+  }
+}
